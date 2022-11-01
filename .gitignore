@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Sample.Cosmos.Sql/Sample.Cosmos.Sql/obj
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/src/Sample.Cosmos.Sql/Sample.Cosmos.Sql/.vs/Sample.Cosmos.Sql/v17
+/.vs/CosmosPocMI
+/src/Sample.Cosmos.Sql/Sample.Cosmos.Sql/.vs/Sample.Cosmos.Sql/config
+/src/Sample.Cosmos.Sql/Sample.Cosmos.Sql/bin/Debug/net6.0
+/test/Sample.Cosmos.Sql.Function.Test/bin/Debug/net6.0
+/test/Sample.Cosmos.Sql.Function.Test/obj
+/src/Sample.Cosmos.Sql/.vs/Sample.Cosmos.Sql
+/src/Sample.Cosmos.Sql/bin/Debug/net6.0
+/src/Sample.Cosmos.Sql/obj
+/src/.vs/Sample.Cosmos.Sql
+/.vs/Sample.Cosmos.Sql
